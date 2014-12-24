@@ -1,4 +1,4 @@
 flex
 ====
 
-so strong
+A framework being built upon flex box.

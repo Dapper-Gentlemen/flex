@@ -2,6 +2,8 @@
 ///	DECLARE FLEX MIXINS	///
 ///////////////////////////
 
+///	LOOP THIS FROM 1 - 32 ($START - $FINISH)
+
 @mixin flex1 {
 	display:	flex;	// so strong
 	flex:		1;		// relative unit of 1

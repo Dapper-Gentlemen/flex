@@ -1,0 +1,23 @@
+///////////////////////////
+///	DECLARE FLEX MIXINS	///
+///////////////////////////
+
+@mixin flex1 {
+	display:	flex;	// so strong
+	flex:		1;		// relative unit of 1
+}
+
+@mixin flex2 {
+	display:	flex;	// so strong
+	flex:		2;		// relative unit of 2
+}
+
+@mixin flex3 {
+	display:	flex;	// so strong
+	flex:		3;		// relative unit of 3
+}
+
+@mixin flex4 {
+	display:	flex;	// so strong
+	flex:		4;		// relative unit of 4
+}
